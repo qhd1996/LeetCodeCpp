@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Array">
+      <UniqueIdentifier>{5b3b69b7-7380-49bc-9da2-867a87df3237}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Single Element in a Sorted Array.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\Array</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
