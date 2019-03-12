@@ -1,4 +1,5 @@
-﻿
+﻿//Time complexity O(m + n)
+//Space complexity O(1)
  struct ListNode {
      int val;
      ListNode *next;
