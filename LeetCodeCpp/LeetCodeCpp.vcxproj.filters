@@ -24,5 +24,8 @@
     <ClCompile Include="Two Sum.cpp">
       <Filter>源文件\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Add Two Numbers.cpp">
+      <Filter>源文件\Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
