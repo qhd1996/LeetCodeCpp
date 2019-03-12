@@ -1,4 +1,4 @@
-Leetcode Solutions Links, mainly in cpp.  
+ Leetcode Solutions Links, mainly in cpp.  
 | ID | Title | Difficulty | Note | Java | Python | Ruby | JavaScript | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Java](https://github.com/insularZJ/LeetCode/blob/master/Algorithms/001.%20Two%20Sum/Solution.java)|no|no|no|no|
