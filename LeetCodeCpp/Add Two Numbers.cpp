@@ -9,7 +9,7 @@
  class Solution {
  public:
 	 ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
-		 ListNode dummy(-1); //Head 􀹣􃞱􂗨
+		 ListNode dummy(-1); //Head􂗨
 		 int carry = 0;
 		 ListNode *prev = &dummy;
 		 for (ListNode *pa = l1, *pb = l2;
@@ -21,7 +21,7 @@
 			 const int bi = pb == nullptr ? 0 : pb->val;
 			 const int value = (ai + bi + carry) % 10;
 			 carry = (ai + bi + carry) / 10;
-			 prev->next = new ListNode(value); //Tail insertion 􁅭􁤁􂈄
+			 prev->next = new ListNode(value); //Tail insertion􂈄
 		 }
 		 if (carry > 0)
 			 prev->next = new ListNode(carry);
