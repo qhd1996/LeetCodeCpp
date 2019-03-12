@@ -1,6 +1,6 @@
 Leetcode solutions, mainly in CPP. CPP is never out of date!
 
-| ID | Title | Difficulty | Note | Java | Python | Ruby | JavaScript | C++ |
+| ID | Title | Difficulty | Note | C++ | Java | Python | JavaScript | Ruby |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|no|no|no|no|no|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|noNote|no|no|no|no|no|
