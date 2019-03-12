@@ -21,5 +21,8 @@
     <ClCompile Include="Single Element in a Sorted Array.cpp">
       <Filter>源文件\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Two Sum.cpp">
+      <Filter>源文件\Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
