@@ -285,4 +285,4 @@ Leetcode solutions, mainly in CPP. CPP is never out of date!
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|noNote|no|no|no|no|no|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|noNote|no|no|no|no|no|  
-|301|[Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/)|Medium|noNote[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Two%20Sum.cpp)|no|no|no|no|
+|301|[Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Palindromic%20Substrings.cpp)|no|no|no|no|
