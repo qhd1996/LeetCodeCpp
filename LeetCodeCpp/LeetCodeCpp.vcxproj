@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add Two Numbers.cpp" />
+    <ClCompile Include="Palindromic Substrings.cpp" />
     <ClCompile Include="Single Element in a Sorted Array.cpp" />
     <ClCompile Include="Two Sum.cpp" />
   </ItemGroup>

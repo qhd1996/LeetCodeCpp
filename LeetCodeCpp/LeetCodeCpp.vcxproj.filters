@@ -27,5 +27,8 @@
     <ClCompile Include="Add Two Numbers.cpp">
       <Filter>源文件\Array</Filter>
     </ClCompile>
+    <ClCompile Include="Palindromic Substrings.cpp">
+      <Filter>源文件\Array</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
