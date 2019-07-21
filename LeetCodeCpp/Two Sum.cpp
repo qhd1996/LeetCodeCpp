@@ -12,7 +12,7 @@ public:
         }
         for(int i =0; i<nums.size(); i++){
             const int difference = target - nums[i];
-            if(mapping.find(difference) != mapping.end() &&         mapping[difference]>i){
+            if(mapping.find(difference) != mapping.end() && mapping[difference]>i){
                 result.push_back(i);
                 result.push_back(mapping[difference]);
                 break;
