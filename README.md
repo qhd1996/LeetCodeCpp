@@ -120,7 +120,7 @@ Leetcode solutions, mainly in CPP. CPP is never out of date!
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|Medium|noNote|no|no|no|no|no|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|Medium|noNote|no|no|no|no|no|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/edit/master/LeetCodeCpp/Array/Pascal's%20Triangle)|no|no|no|no|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|Easy|noNote|no|no|no|no|no|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Pascal's%20Triangle%20II)|no|no|no|no|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|Medium|noNote|no|no|no|no|no|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|noNote|no|no|no|no|no|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Easy|noNote|no|no|no|no|no|
