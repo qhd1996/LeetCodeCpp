@@ -168,7 +168,7 @@ Leetcode solutions, mainly in CPP. CPP is never out of date!
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|Hard|noNote|no|no|no|no|no|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|Medium|noNote|no|no|no|no|no|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|Medium|noNote|no|no|no|no|no|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Easy|noNote|no|no|no|no|no|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|no|no|no|no|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Easy|noNote|no|no|no|no|no|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|noNote|no|no|no|no|no|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
