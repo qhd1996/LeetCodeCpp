@@ -1,3 +1,4 @@
+$$C_{n}^{r+1}=\frac{n!}{(r+1)!(n-r-1)!}=\frac{n!}{r!(r+1)(n-r)!/(n-r)}=C_{n}^{r}*\frac{n-r}{r+1}$$
 //Time Complexity O(n)
 //Space Complexity O(n)
 
