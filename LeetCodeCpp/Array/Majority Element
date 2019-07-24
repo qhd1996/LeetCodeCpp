@@ -1,0 +1,20 @@
+//Moore Voting Algorithm
+//Time Complexity O(n)
+//Space Complexity O(1)
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int majority, counter = 0;
+        for(int num: nums){
+            if(!counter){
+                majority = num;
+                counter = 1;
+            }else if(num == majority)
+                counter++;
+            else
+                counter--;
+        }
+        return majority;
+    }
+};
