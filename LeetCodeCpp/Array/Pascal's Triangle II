@@ -1,3 +1,4 @@
+//Solution1
 $$C_{n}^{r+1}=\frac{n!}{(r+1)!(n-r-1)!}=\frac{n!}{r!(r+1)(n-r)!/(n-r)}=C_{n}^{r}*\frac{n-r}{r+1}$$
 //Time Complexity O(n)
 //Space Complexity O(n)
@@ -14,6 +15,23 @@ public:
             row[i]=(long)row[i-1]*(rowIndex-i+1)/i;
         }
         
+        return row;
+    }
+};
+
+//Solution2
+//Time Complexity O(n)
+//Space Complexity O(n)
+
+class Solution {
+public:
+    vector<int> getRow(int rowIndex) {
+        vector<int> row;
+        for (int i=0; i <=rowIndex; i++) {
+            row.push_back(1);
+            for(int j=i-1; j>=1; j--)
+                row[j] = row[j] + row[j-1];
+        }
         return row;
     }
 };
