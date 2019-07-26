@@ -1,5 +1,5 @@
 //Solution1
-//Hash Table
+//Map
 //Time Complexity O(n)
 //Space Complexity O(n)
 
@@ -22,7 +22,7 @@ public:
 };
 
 //Solution2
-//Hash Table
+//Set
 //Time Complexity O(n)
 //Space Complexity O(n)
 
