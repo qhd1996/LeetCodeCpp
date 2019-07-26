@@ -1,5 +1,3 @@
-Leetcode solutions, mainly in CPP. CPP is never out of date!
-
 | ID | Title | Difficulty | Note | C++ | Java | Python | JavaScript | Ruby |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Two%20Sum.cpp)|no|no|no|no|
