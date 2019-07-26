@@ -1,6 +1,6 @@
 //Solution1
 //Hash Table
-//Time Complexity O(nlogn)
+//Time Complexity O(n)
 //Space Complexity O(n)
 
 class Solution {
@@ -23,7 +23,7 @@ public:
 
 //Solution2
 //Hash Table
-//Time Complexity O(nlogn)
+//Time Complexity O(n)
 //Space Complexity O(n)
 
 class Solution {
