@@ -202,7 +202,7 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|Medium|noNote|no|no|no|no|no|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|noNote[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Contains%20Duplicate)no|no|no|no|no|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|Hard|noNote|no|no|no|no|no|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|noNote|no|no|no|no|no|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Contains%20Duplicate%20II)|no|no|no|no|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|Medium|noNote|no|no|no|no|no|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Medium|noNote|no|no|no|no|no|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|Medium|noNote|no|no|no|no|no|
