@@ -250,7 +250,7 @@
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|noNote|no|no|no|no|no|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Missing%20Number)|no|no|no|no|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
