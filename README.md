@@ -284,3 +284,4 @@
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|noNote|no|no|no|no|no|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|noNote|no|no|no|no|no|  
 |301|[Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Palindromic%20Substrings.cpp)|no|no|no|no|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Missing%20Number)|no|no|no|no|
