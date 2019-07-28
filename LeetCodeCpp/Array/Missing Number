@@ -1,0 +1,82 @@
+//Solution1
+//Sort
+//Time Complexity O(nlogn)
+//Space Complexity O(1)
+
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        
+        // Ensure that n is at the last index
+        if (nums[nums.size()-1] != nums.size()) {
+            return nums.size();
+        }
+        // Ensure that 0 is at the first index
+        else if (nums[0] != 0) {
+            return 0;
+        }
+        
+        for(int i = 1; i < nums.size(); i++){
+            int exceptedNum = nums[i-1] + 1;
+            if(nums[i] != exceptedNum)
+                return exceptedNum;
+        }
+        return -1;
+    }
+};
+
+//Solution2
+//Hash Table
+//Time Complexity O(n)
+//Space Complexity O(n)
+
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        set<int> s;
+        for(int num: nums)
+            s.insert(num);
+        
+        int exceptedNumCount = nums.size() + 1;
+        for(int number = 0; number < exceptedNumCount; number++){
+            if(s.find(number) == s.end()){
+                return number;
+            }
+        }
+        return -1;
+    }
+};
+
+//Solution3
+//Bit Manipulation
+//Time Complexity O(n)
+//Space Complexity O(1)
+
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int missing = nums.size();
+        for(int i = 0; i < nums.size(); i++){
+            missing ^= i ^ nums[i];
+        }
+        return missing;
+    }
+};
+
+//Math
+//Time Complexity O(n)
+//Space Complexity O(1)
+
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int sum = 0;
+        for(int i = 0; i < nums.size(); i++){
+            sum += nums[i];
+        }
+        int expectedSum = (nums.size() + 1) * nums.size() / 2;
+        return expectedSum - sum;
+    }
+};
+
