@@ -135,7 +135,7 @@
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium|noNote|no|no|no|no|no|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|noNote|no|no|no|no|no|
 |135|[Candy](https://leetcode.com/problems/candy/)|Hard|noNote|no|no|no|no|no|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|noNote|no|no|no|no|no|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Single%20Number.cpp)|no|no|no|no|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|Medium|noNote|no|no|no|no|no|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium|noNote|no|no|no|no|no|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|noNote|no|no|no|no|no|
