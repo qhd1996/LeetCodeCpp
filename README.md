@@ -188,7 +188,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Happy-Number.cpp)|no|no|no|no|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy|noNote|no|no|no|no|no|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Count-Primes.cpp)|no|no|no|no|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|noNote|no|no|no|no|no|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Isomorphic-Strings.cpp)|no|no|no|no|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|noNote|no|no|no|no|no|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|noNote|no|no|no|no|no|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|noNote|no|no|no|no|no|
