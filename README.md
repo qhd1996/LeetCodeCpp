@@ -135,7 +135,7 @@
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium|noNote|no|no|no|no|no|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|noNote|no|no|no|no|no|
 |135|[Candy](https://leetcode.com/problems/candy/)|Hard|noNote|no|no|no|no|no|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Single%20Number.cpp)|no|no|no|no|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Single-Number.cpp)|no|no|no|no|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|Medium|noNote|no|no|no|no|no|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium|noNote|no|no|no|no|no|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|noNote|no|no|no|no|no|
@@ -185,9 +185,9 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|noNote|no|no|no|no|no|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|noNote|no|no|no|no|no|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Medium|noNote|no|no|no|no|no|
-|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/tree/master/LeetCodeCpp/Hash-Table)|no|no|no|no|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Happy-Number.cpp)|no|no|no|no|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy|noNote|no|no|no|no|no|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|Easy|noNote|no|no|no|no|no|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Count-Primes.cpp)|no|no|no|no|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|noNote|no|no|no|no|no|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|noNote|no|no|no|no|no|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|noNote|no|no|no|no|no|
