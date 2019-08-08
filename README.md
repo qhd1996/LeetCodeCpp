@@ -225,7 +225,7 @@
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|noNote|no|no|no|no|no|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|noNote|no|no|no|no|no|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|noNote|no|no|no|no|no|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|noNote|no|no|no|no|no|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Valid-Anagram.cpp)|no|no|no|no|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
