@@ -272,7 +272,7 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|noNote|no|no|no|no|no|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Medium|noNote|no|no|no|no|no|
-|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|noNote|no|no|no|no|no|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Valid-Anagram.cpp)|no|no|no|no|
 |291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|noNote|no|no|no|no|no|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
