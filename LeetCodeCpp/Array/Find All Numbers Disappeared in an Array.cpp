@@ -1,6 +1,7 @@
 //Hash Table
 //Time Complexity O(n)
 //Space Complexity O(n)
+
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
@@ -20,6 +21,5 @@ public:
             }
         }
     return missing;
-        
     }
 };
