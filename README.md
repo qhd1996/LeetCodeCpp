@@ -29,7 +29,7 @@
 |027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|noNote|no|no|no|no|no|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|Easy|noNote|no|no|no|no|no|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|Medium|noNote|no|no|no|no|no|
-|030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|Hard|noNote|no|no|no|no|no|
+|030|[Substring with Concatenation of All Words](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|Hard|noNote|no|no|no|no|no|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|noNote|no|no|no|no|no|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|noNote|no|no|no|no|no|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|noNote|no|no|no|no|no|
