@@ -28,7 +28,7 @@
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|noNote|no|no|no|no|no|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|noNote|no|no|no|no|no|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|Easy|noNote|no|no|no|no|no|
-|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|Medium|noNote|no|no|no|no|no|
+|029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Math/Divide-Two-Integers.cpp)|no|no|no|no|
 |030|[Substring with Concatenation of All Words](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|Hard|noNote|no|no|no|no|no|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|noNote|no|no|no|no|no|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|noNote|no|no|no|no|no|
