@@ -1,3 +1,4 @@
+//Solution 1
 //a / b = exp(loga - logb)
 //Time Complexity O(1)
 //Space Complexity O(1)
@@ -14,6 +15,7 @@ public:
     }
 };
 
+//Solution 2
 //Time Complexity O(nlogn)
 //Space Complexity O(1)
 
