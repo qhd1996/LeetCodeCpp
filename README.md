@@ -32,7 +32,7 @@
 |030|[Substring with Concatenation of All Words](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|Hard|noNote|no|no|no|no|no|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Medium|noNote|no|no|no|no|no|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|Hard|noNote|no|no|no|no|no|
-|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|noNote|no|no|no|no|no|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Search-in-Rotated-Sorted-Array.cpp)|no|no|no|no|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|noNote|no|no|no|no|no|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Search%20Insert%20Position)|no|no|no|no|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|noNote|no|no|no|no|no|
