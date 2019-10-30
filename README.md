@@ -61,7 +61,7 @@
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Spiral-Matrix-II.cpp)|no|no|no|no|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|Medium|noNote|no|no|no|no|no|
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|noNote|no|no|no|no|no|
-|062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|noNote|no|no|no|no|no|
+|062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/DP/Unique-Paths.cpp)|no|no|no|no|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Medium|noNote|no|no|no|no|no|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|noNote|no|no|no|no|no|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/)|Hard|noNote|no|no|no|no|no|
