@@ -63,7 +63,7 @@
 |061|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|noNote|no|no|no|no|no|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/DP/Unique-Paths.cpp)|no|no|no|no|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Medium|noNote|no|no|no|no|no|
-|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|noNote|no|no|no|no|no|
+|064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/DP/Minimum-Path-Sum.cpp)|no|no|no|no|
 |065|[Valid Number](https://leetcode.com/problems/valid-number/)|Hard|noNote|no|no|no|no|no|
 |066|[Plus One](https://leetcode.com/problems/plus-one/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Plus%20One)|no|no|no|no|
 |067|[Add Binary](https://leetcode.com/problems/add-binary/)|Easy|noNote|no|no|no|no|no|
