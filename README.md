@@ -72,7 +72,7 @@
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|noNote|no|no|no|no|no|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|noNote|no|no|no|no|no|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Hard|noNote|no|no|no|no|no|
-|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|noNote|no|no|no|no|no|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Set-Matrix-Zeroes.cpp)|no|no|no|no|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|noNote|no|no|no|no|no|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|noNote|no|no|no|no|no|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Minimum%20Window%20Substring.cpp)|no|no|no|no|
