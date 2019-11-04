@@ -1,5 +1,5 @@
 //Array, Binary Search
-//Time Complexity O(log(m) + log(n))
+//Time Complexity O(log(m * n))
 //Space Complexity O(1)
 
 class Solution {
@@ -14,6 +14,25 @@ public:
                 hi = mid - 1;
             else
                 lo = mid + 1;
+        }
+        return false;
+    }
+};
+
+//Solution2
+//Array 
+//Time Complexity O(m + n)
+//Space Complexity O(1)
+
+class Solution {
+public:
+    bool searchMatrix(vector<vector<int> > &matrix, int target) {
+        if(matrix.empty()) return false;
+        int m = matrix.size(), n = matrix[0].size(), row = 0, col = n-1;
+        while( row < m && col >= 0){
+            if(matrix[row][col]==target) return true;
+            else if(matrix[row][col] < target) row++;
+            else col--;
         }
         return false;
     }
