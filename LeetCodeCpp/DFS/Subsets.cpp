@@ -1,5 +1,5 @@
 //Array, DFS
-//Time Complexity O(2 ^ n), but considering the copy of each tmp to res, it should be O(n * //2^n)
+//Considering the copy of each tmp to res, it should be O(n * 2^n)
 //Space Complexity O(n ^ 2)
 
 class Solution {
