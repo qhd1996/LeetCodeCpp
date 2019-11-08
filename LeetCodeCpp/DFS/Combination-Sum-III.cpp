@@ -1,6 +1,6 @@
 //Array, DFS
-//Time Complexity O(n ^ 2)
-//Space Complexity O(n ^ 2)
+//Time Complexity O(C(n, k))
+//Space Complexity O(n)
 class Solution {
 public: 
     void search(int len, int target, vector<int>&nums, int start, vector<int>& tmp, vector<vector<int> >& res){
