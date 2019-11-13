@@ -291,3 +291,4 @@
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Max-Consecutive-Ones.cpp)|no|no|no|no|
 |495|[Teemo Attacking](https://https://leetcode.com/problems/teemo-attacking/)|Medium|noNote|[Here](https://https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Teemo-Attacking.cpp)|no|no|no|no|
 |508|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Fibonacci-Number.cpp)|no|no|no|no|
+|870|[Advantage Shuffle](https://https://leetcode.com/problems/advantage-shuffle/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Greedy/Advantage-Shuffle.cpp)|no|no|no|no|
