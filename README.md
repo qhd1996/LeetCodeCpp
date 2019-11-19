@@ -285,7 +285,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|noNote|no|no|no|no|no|  
 |301|[Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Palindromic%20Substrings.cpp)|no|no|no|no|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Missing%20Number)|no|no|no|no|
-|415|[Add Strings](https://https://leetcode.com/problems/add-strings/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Add-Strings.cpp)|no|no|no|no|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Add-Strings.cpp)|no|no|no|no|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Find-All-Anagrams-in-a-String.cpp)|no|no|no|no|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Find-All-Numbers-Disappeared-in-an-Array.cpp)|no|no|no|no|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Circular-Array-Loop.cpp)|no|no|no|no|
