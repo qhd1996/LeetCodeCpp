@@ -1,3 +1,7 @@
+//String
+//Time Complexity O(max(m, n))
+//Space Complexity O(m + n)
+
 class Solution {
 public:
     string addStrings(string num1, string num2) {
