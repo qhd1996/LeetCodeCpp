@@ -42,7 +42,7 @@
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/DFS/Combination-Sum-II.cpp)|no|no|no|no|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|noNote|no|no|no|no|no|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|noNote|no|no|no|no|no|
-|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|noNote|no|no|no|no|no|
+|043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Multiply-Strings.cpp)|no|no|no|no|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Hard|noNote|no|no|no|no|no|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Hard|noNote|no|no|no|no|no|
 |046|[Permutations](https://leetcode.com/problems/permutations/)|Medium|noNote|no|no|no|no|no|
