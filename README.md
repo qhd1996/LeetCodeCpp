@@ -70,7 +70,7 @@
 |068|[Text Justification](https://leetcode.com/problems/text-justification/)|Hard|noNote|no|no|no|no|no|
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|noNote|no|no|no|no|no|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|noNote|no|no|no|no|no|
-|071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|noNote|no|no|no|no|no|
+|071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Simplify-Path.cpp)|no|no|no|no|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Hard|noNote|no|no|no|no|no|
 |073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Set-Matrix-Zeroes.cpp)|no|no|no|no|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Search-a-2D-Matrix.cpp)|no|no|no|no|
