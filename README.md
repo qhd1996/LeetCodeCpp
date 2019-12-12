@@ -284,6 +284,7 @@
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|noNote|no|no|no|no|no|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|noNote|no|no|no|no|no|  
 |301|[Palindromic Substring](https://leetcode.com/problems/palindromic-substrings/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Palindromic%20Substrings.cpp)|no|no|no|no|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Reverse-Vowels-of-a-String.cpp)|no|no|no|no|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Missing%20Number)|no|no|no|no|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/String/Add-Strings.cpp)|no|no|no|no|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Hash-Table/Find-All-Anagrams-in-a-String.cpp)|no|no|no|no|
