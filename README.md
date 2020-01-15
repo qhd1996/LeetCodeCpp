@@ -49,7 +49,7 @@
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|noNote|no|no|no|no|no|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Rotate-Image.cpp)|no|no|no|no|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|noNote|no|no|no|no|no|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|noNote|no|no|no|no|no|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Math/pow.cpp)|no|no|no|no|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/)|Hard|noNote|no|no|no|no|no|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|Hard|noNote|no|no|no|no|no|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Easy|noNote|no|no|no|no|no|
