@@ -240,7 +240,7 @@
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|noNote|no|no|no|no|no|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Tree/Binary-Tree-Paths.cpp)|no|no|no|no|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|noNote|no|no|no|no|no|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|noNote|no|no|no|no|no|
