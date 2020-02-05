@@ -1,6 +1,6 @@
 | ID | Title | Difficulty | Note | C++ | Java | Python | JavaScript | Ruby |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Two%20Sum.cpp)|no|no|no|no|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Two-Sum.cpp)|no|no|no|no|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Add%20Two%20Numbers.cpp)|no|no|no|no|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/edit/master/LeetCodeCpp/Longest%20Substring%20Without%20Repeating%20Characters)|no|no|no|no|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Median%20of%20Two%20Sorted%20Arrays)|no|no|no|no|
