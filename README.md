@@ -1,4 +1,4 @@
-| ID | Title | Difficulty | Note | C++ | Java | Python | JavaScript | Ruby |
+| ID | Title | Difficulty | Note | C++ | Java | Python | JavaScript | Knowledge |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Array/Two-Sum.cpp)|no|no|no|no|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|noNote|[Here](https://github.com/qhd1996/LeetCodeCpp/blob/master/LeetCodeCpp/Add%20Two%20Numbers.cpp)|no|no|no|no|
