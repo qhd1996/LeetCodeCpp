@@ -44,6 +44,7 @@ public:
 *方法2 分层模拟
 *一层一层遍历
 *每层的顺序都是上右下左
+*注意防止重复访问
 *时间复杂度O(mn)
 *空间复杂度O(1)
 */
@@ -83,7 +84,6 @@ public:
                     res.push_back(matrix[row][left]);
                 }
             }
-            
             left++;
             right--;
             top++;
